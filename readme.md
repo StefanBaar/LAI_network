@@ -6,7 +6,7 @@ This repository acts as supplementary information for the publication "Non-destr
 
 In the paper, we analyzed LAI evolution of two tomato species over the time span of three years and compared the results to manually obtained LAI estimations.
 
-![Screenshot](misc/unet.pdf)
+![Screenshot](misc/unet.png)
 
 This contains scripts for the following processing steps:
 - image preparation
