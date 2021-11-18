@@ -4,7 +4,7 @@ Estimating the Leaf Area Index from a set of RGB frames of vine plants
 
 This repository acts as supplementary information for the publication "Non-destructive Leaf Area Index estimation via guided optical imaging using UNET segmentation for large scale greenhouse environments" by Stefan Baar, Yosuke Kobayashi, Tatsuro Horie, Kazuhiko Sato, Hidetsugu Suto, Shinya Watanabe.
 
-In the paper, we analyzed LAI evolution of two tomato species over the time span of three years and compared the results to manually obtained LAI estimations.
+In the paper, we analyzed the LAI evolution of two tomato species over the time span of three years and compared the results to manually obtained LAI estimations.
 
 ![Screenshot](misc/unet.png)
 
